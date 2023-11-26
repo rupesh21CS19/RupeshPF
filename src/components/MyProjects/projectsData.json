@@ -1,9 +1,16 @@
 [
   {
     "id": 1,
-    "img": "./project_img/dice_game.png",
+    "img": "./project_img/1dice_game.png",
     "github": "https://github.com/rupesh21CS19/disc-game",
     "link": "https://rupesh21cs19.github.io/disc-game/",
-    "description": "In this simple Disc game basically use ReactJs,Tailwind CSS and same packages like 'react-icon','react-router-dom',"
+    "description": "In this simple Disc game basically use HTML,Tailwind CSS and same packages like 'react-icon', 'react-router-dom',"
+  },
+  {
+    "id": 2,
+    "img": "./project_img/2boxtaxis.png",
+    "github": "https://github.com/rupesh21CS19/booktaxis",
+    "link": "https://rupesh21cs19.github.io/booktaxis/",
+    "description": "In this projects basically use HTML, CSS and Javascript, this is my first project"
   }
 ]
