@@ -31,7 +31,7 @@ const Cards = ({ data }) => {
                 <div className="my-3 mt-4   ">
                   <img
                     className="cursor-pointer transition ease-in-out delay-1 rounded-xl hover:scale-110 duration-300  shadow-md shadow-red-700/50 "
-                    src="./project_img/dice_game.png"
+                    src={require(`${e.img}`)}
                     alt="e"
                   />
                 </div>
