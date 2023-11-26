@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/RupeshPF/static/css/main.9f20b74b.css",
-    "main.js": "/RupeshPF/static/js/main.9ca8db1a.js",
+    "main.js": "/RupeshPF/static/js/main.cc1492fe.js",
     "index.html": "/RupeshPF/index.html",
     "main.9f20b74b.css.map": "/RupeshPF/static/css/main.9f20b74b.css.map",
-    "main.9ca8db1a.js.map": "/RupeshPF/static/js/main.9ca8db1a.js.map"
+    "main.cc1492fe.js.map": "/RupeshPF/static/js/main.cc1492fe.js.map"
   },
   "entrypoints": [
     "static/css/main.9f20b74b.css",
-    "static/js/main.9ca8db1a.js"
+    "static/js/main.cc1492fe.js"
   ]
 }
