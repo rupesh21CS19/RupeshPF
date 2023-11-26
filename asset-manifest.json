@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/RupeshPF/static/css/main.9f20b74b.css",
-    "main.js": "/RupeshPF/static/js/main.cc1492fe.js",
+    "main.js": "/RupeshPF/static/js/main.7ca38204.js",
+    "static/media/ei_1700909229899-removebg-preview.png": "/RupeshPF/static/media/ei_1700909229899-removebg-preview.daa7ee3a919ec5e45180.png",
     "index.html": "/RupeshPF/index.html",
     "main.9f20b74b.css.map": "/RupeshPF/static/css/main.9f20b74b.css.map",
-    "main.cc1492fe.js.map": "/RupeshPF/static/js/main.cc1492fe.js.map"
+    "main.7ca38204.js.map": "/RupeshPF/static/js/main.7ca38204.js.map"
   },
   "entrypoints": [
     "static/css/main.9f20b74b.css",
-    "static/js/main.cc1492fe.js"
+    "static/js/main.7ca38204.js"
   ]
 }
