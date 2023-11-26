@@ -5,10 +5,10 @@ import Projects from "./components/MyProjects/Projects";
 function App() {
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename="/RupeshPF">
         <Routes>
-          <Route path="RupeshPF" element={<Home />} />
-          <Route path="RupeshPF/projects" element={<Projects />} />
+          <Route index path="/RupeshPF" element={<Home />} />
+          <Route path="/projects" element={<Projects />} />
         </Routes>
       </BrowserRouter>
     </>
