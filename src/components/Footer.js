@@ -5,10 +5,10 @@ import { Link } from "react-router-dom";
 const Footer = () => {
   return (
     <div className="text-white flex flex-wrap justify-between items-center px-3 py-4">
-      <Link to="/RupeshPF" className="text-red-700 font-bold text-2xl">
+      <Link to="/" className="text-red-700 font-bold text-2xl">
         Rupesh.
       </Link>{" "}
-      <div className="flex gap-4 items-center text-xl">
+      <div className="flex gap-4 items-center text-xl ">
         <Link to="https://www.linkedin.com/in/rupesh-kumar-4b1359282/">
           <FaLinkedin className="cursor-pointer transition ease-in-out delay-1  hover:-translate-y-1 hover:scale-210   duration-300" />
         </Link>

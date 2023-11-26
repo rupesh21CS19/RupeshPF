@@ -14,7 +14,7 @@ const Nav = () => {
         </NavLink>
         <NavLink
           className="cursor-pointer transition ease-in-out delay-1  hover:-translate-y-1 hover:scale-110 duration-300 "
-          to="/projects"
+          to="projects"
         >
           Projects
         </NavLink>

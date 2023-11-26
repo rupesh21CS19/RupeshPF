@@ -7,7 +7,6 @@ const Cards = ({ data }) => {
         //
         data &&
           data.map((e) => {
-            console.log(e.img);
             return (
               <div
                 key={e.id}

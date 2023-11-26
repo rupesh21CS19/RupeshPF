@@ -8,7 +8,7 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path="RupeshPF" element={<Home />} />
-          <Route path="/projects" element={<Projects />} />
+          <Route path="RupeshPF/projects" element={<Projects />} />
         </Routes>
       </BrowserRouter>
     </>
