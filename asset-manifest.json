@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/RupeshPF/*/static/css/main.9f20b74b.css",
-    "main.js": "/RupeshPF/*/static/js/main.1a7cd7c6.js",
-    "static/media/ei_1700909229899-removebg-preview.png": "/RupeshPF/*/static/media/ei_1700909229899-removebg-preview.daa7ee3a919ec5e45180.png",
-    "static/media/dice_game.png": "/RupeshPF/*/static/media/dice_game.ccd651483285a5f10bd2.png",
-    "index.html": "/RupeshPF/*/index.html",
-    "main.9f20b74b.css.map": "/RupeshPF/*/static/css/main.9f20b74b.css.map",
-    "main.1a7cd7c6.js.map": "/RupeshPF/*/static/js/main.1a7cd7c6.js.map"
+    "main.css": "/RupeshPF/static/css/main.9f20b74b.css",
+    "main.js": "/RupeshPF/static/js/main.42bca6a3.js",
+    "static/media/ei_1700909229899-removebg-preview.png": "/RupeshPF/static/media/ei_1700909229899-removebg-preview.daa7ee3a919ec5e45180.png",
+    "static/media/dice_game.png": "/RupeshPF/static/media/dice_game.ccd651483285a5f10bd2.png",
+    "index.html": "/RupeshPF/index.html",
+    "main.9f20b74b.css.map": "/RupeshPF/static/css/main.9f20b74b.css.map",
+    "main.42bca6a3.js.map": "/RupeshPF/static/js/main.42bca6a3.js.map"
   },
   "entrypoints": [
     "static/css/main.9f20b74b.css",
-    "static/js/main.1a7cd7c6.js"
+    "static/js/main.42bca6a3.js"
   ]
 }
