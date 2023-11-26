@@ -5,7 +5,7 @@ const HeroSection = () => {
         <div className=" ">
           <img
             className="rounded-full w-40vw]"
-            src="images/ei_1700909229899-removebg-preview.png"
+            src={require("../images/ei_1700909229899-removebg-preview.png")}
             alt=""
           />
         </div>

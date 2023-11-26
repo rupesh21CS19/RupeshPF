@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 const Footer = () => {
   return (
     <div className="text-white flex flex-wrap justify-between items-center px-3 py-4">
-      <Link to="/" className="text-red-700 font-bold text-2xl">
+      <Link to="/RupeshPF" className="text-red-700 font-bold text-2xl">
         Rupesh.
       </Link>{" "}
       <div className="flex gap-4 items-center text-xl">
