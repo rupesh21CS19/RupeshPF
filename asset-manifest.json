@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RupeshPF/static/css/main.b45ee05d.css",
+    "main.js": "/RupeshPF/static/js/main.bec79c4d.js",
+    "index.html": "/RupeshPF/index.html",
+    "main.b45ee05d.css.map": "/RupeshPF/static/css/main.b45ee05d.css.map",
+    "main.bec79c4d.js.map": "/RupeshPF/static/js/main.bec79c4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b45ee05d.css",
+    "static/js/main.bec79c4d.js"
+  ]
+}
