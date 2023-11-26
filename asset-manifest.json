@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/RupeshPF/static/css/main.b45ee05d.css",
-    "main.js": "/RupeshPF/static/js/main.bec79c4d.js",
+    "main.css": "/RupeshPF/static/css/main.9f20b74b.css",
+    "main.js": "/RupeshPF/static/js/main.e942ae7c.js",
     "index.html": "/RupeshPF/index.html",
-    "main.b45ee05d.css.map": "/RupeshPF/static/css/main.b45ee05d.css.map",
-    "main.bec79c4d.js.map": "/RupeshPF/static/js/main.bec79c4d.js.map"
+    "main.9f20b74b.css.map": "/RupeshPF/static/css/main.9f20b74b.css.map",
+    "main.e942ae7c.js.map": "/RupeshPF/static/js/main.e942ae7c.js.map"
   },
   "entrypoints": [
-    "static/css/main.b45ee05d.css",
-    "static/js/main.bec79c4d.js"
+    "static/css/main.9f20b74b.css",
+    "static/js/main.e942ae7c.js"
   ]
 }
