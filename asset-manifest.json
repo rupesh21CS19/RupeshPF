@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/RupeshPF/static/css/main.9f20b74b.css",
-    "main.js": "/RupeshPF/static/js/main.8d162dc2.js",
+    "main.js": "/RupeshPF/static/js/main.46d1bbe4.js",
     "static/media/2boxtaxis.png": "/RupeshPF/static/media/2boxtaxis.8419c6fa58db3e01f14d.png",
     "static/media/ei_1700909229899-removebg-preview.png": "/RupeshPF/static/media/ei_1700909229899-removebg-preview.daa7ee3a919ec5e45180.png",
     "static/media/1dice_game.png": "/RupeshPF/static/media/1dice_game.ccd651483285a5f10bd2.png",
     "index.html": "/RupeshPF/index.html",
     "main.9f20b74b.css.map": "/RupeshPF/static/css/main.9f20b74b.css.map",
-    "main.8d162dc2.js.map": "/RupeshPF/static/js/main.8d162dc2.js.map"
+    "main.46d1bbe4.js.map": "/RupeshPF/static/js/main.46d1bbe4.js.map"
   },
   "entrypoints": [
     "static/css/main.9f20b74b.css",
-    "static/js/main.8d162dc2.js"
+    "static/js/main.46d1bbe4.js"
   ]
 }
